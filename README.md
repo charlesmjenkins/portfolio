@@ -72,7 +72,7 @@ This repository serves as an index to the various projects I've worked on to hel
 	- **Team Project?:** No
 	- **My Lead Contributions:** Everything
 
-
+![Personal Website](/screenshots/charlesmjenkins.com.png?raw=true)
 - **[Personal Website](http://charlesmjenkins.com)**
 	- **Description:** My personal website
 	- **Technologies:** HTML, CSS, JavaScript, jQuery
