@@ -5,6 +5,7 @@ This repository serves as an index to the various projects I've worked on to hel
 ## Noteworthy Projects
 
 ### Boeing Web-Based Supply Chain Information Platform
+![Boeing Web-Based Supply Chain Information Platform](/screenshots/supple.png?raw=true)
 - **Note:** Project is proprietary to Boeing, so the code unfortunately cannot be shared
 - **Description:** A supplier- and internal-facing web application MVP/POC built to be extensible and flexible that allows suppliers to maintain profiles relevant to Boeing's sourcing priorities and that gives Boeing users a rich interface for consuming supplier data and visualizing contract and global supply chain data
 - **Technologies:** MySQL, PHP, HTML, CSS, JavaScript, jQuery, Tableau
@@ -24,6 +25,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Barcode Scanning Inventory Management API and Mobile App](https://github.com/charlesmjenkins/inventory-management-mobile-app)
+![Barcode Scanning Inventory Management API and Mobile App](/screenshots/merch.png?raw=true)
 - **Description:** A cloud-based API and barcode-scanning mobile inventory management app
 - **Technologies:** Google Cloud Datastore (NoSQL), Google App Engine, Python, Android, Java
 - **Team Project?:** No
@@ -91,6 +93,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### Web-Based Car Dealership Database Admin Template
+![Web-Based Car Dealership Database Admin Template](/screenshots/car.png?raw=true)
 - **Note:** Project is proprietary to RepuVision, so the code unfortunately cannot be shared
 - **Description:** A car dealership database admin web application that was built for the web design company RepuVision to use as a back-end template when selling services to car dealerships
 - **Technologies:** MySQL, PHP, HTML, CSS, JavaScript
