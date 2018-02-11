@@ -49,11 +49,11 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Physics-Based Phaser HTML5/JavaScript Game Concept and How-To Guide](https://github.com/charlesmjenkins/physics-game)
-	- **[View the How-To and Try the Game](http://charlesmjenkins.com/physics-game/how-to.html)** 
-	- **Description:** A physics-based game concept built as an example for a how-to guide on the Phaser game development framework's included P2 Physics Engine
-	- **Technologies:** HTML5, Phaser HTML5 game framework, CSS, JavaScript
-	- **Team Project?:** No
-	- **My Lead Contributions:** Everything
+- **[View the How-To and Try the Game](http://charlesmjenkins.com/physics-game/how-to.html)** 
+- **Description:** A physics-based game concept built as an example for a how-to guide on the Phaser game development framework's included P2 Physics Engine
+- **Technologies:** HTML5, Phaser HTML5 game framework, CSS, JavaScript
+- **Team Project?:** No
+- **My Lead Contributions:** Everything
 
 
 ### [Getting Started with Hadoop, MapReduce and Hive How-To Guide](http://charlesmjenkins.com/hadoop)
@@ -71,6 +71,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Band Website](https://github.com/asenseofgravity/asenseofgravity.github.io)
+![Band Website](/screenshots/asog.png?raw=true)
 - **Description:** My band's official website
 - **Technologies:** HTML, CSS, JavaScript, jQuery
 - **Team Project?:** No
