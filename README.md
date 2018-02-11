@@ -40,6 +40,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Dog Adoption Simulated Mobile App](https://github.com/charlesmjenkins/dog-adoption-app)
+![Dog Adoption Simulated Mobile App](/screenshots/dog.png?raw=true)
 - **[Try the Web App](http://charlesmjenkins.com/dog-adoption-app/startup.php)** 
 - **Description:** A web app simulating a mobile app that shows users a list of dogs in nearby shelters in order of "euthanization schedule" to help incentivize users to adopt
 - **Technologies:** MySQL, PHP, HTML5, CSS, JavaScript, jQuery, Google Maps Geocoding API
@@ -49,6 +50,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Physics-Based Phaser HTML5/JavaScript Game Concept and How-To Guide](https://github.com/charlesmjenkins/physics-game)
+![Physics-Based Phaser HTML5/JavaScript Game Concept and How-To Guide](/screenshots/physics.png?raw=true)
 - **[View the How-To and Try the Game](http://charlesmjenkins.com/physics-game/how-to.html)** 
 - **Description:** A physics-based game concept built as an example for a how-to guide on the Phaser game development framework's included P2 Physics Engine
 - **Technologies:** HTML5, Phaser HTML5 game framework, CSS, JavaScript
@@ -57,6 +59,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Getting Started with Hadoop, MapReduce and Hive How-To Guide](http://charlesmjenkins.com/hadoop)
+![Getting Started with Hadoop, MapReduce and Hive How-To Guide](/screenshots/hadoop.png?raw=true)
 - **Description:** A how-to guide for setting up a single node Hadoop cluster and running MapReduce jobs and Hive queries on it
 - **Technologies:** Hadoop, MapReduce, Hive, HTML, CSS
 - **Team Project?:** No
@@ -64,6 +67,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 
 ### [Comparison of POSIX and Windows APIs](http://charlesmjenkins.com/posix-vs-windows.pdf)
+![Comparison of POSIX and Windows APIs](/screenshots/posix.png?raw=true)
 - **Description:** A paper written for my operating systems class comparing some of the basics of the POSIX and Windows APIs
 - **Technologies:** LaTeX
 - **Team Project?:** No
