@@ -5,7 +5,6 @@ This repository serves as an index to the various projects I've worked on to hel
 ## Noteworthy Projects
 
 ### Boeing Web-Based Supply Chain Information Platform
-![Boeing Web-Based Supply Chain Information Platform](/screenshots/supple.png?raw=true)
 - **Note:** Project is proprietary to Boeing, so the code unfortunately cannot be shared
 - **Description:** A supplier- and internal-facing web application MVP/POC built to be extensible and flexible that allows suppliers to maintain profiles relevant to Boeing's sourcing priorities and that gives Boeing users a rich interface for consuming supplier data and visualizing contract and global supply chain data
 - **Technologies:** MySQL, PHP, HTML, CSS, JavaScript, jQuery, Tableau
@@ -16,7 +15,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 ### [Reuse and Repair Business Directory API, Web App, and Mobile App](https://github.com/charlesmjenkins/reuse-and-repair-business-api-web-and-mobile-app)
 ![Reuse and Repair Business Directory API, Web App, and Mobile App](/screenshots/reuse.png?raw=true)
-- **[Try the Web App](http://charlesmjenkins.com/reuse/webapp/login.php)** 
+- **[Try the Web App](http://charlesmjenkins.com/reuse/webapp/login.php)**
 - **Description:** A web service and web-based admin interface to power and manage a custom mobile app that allows users to locate local reuse and repair businesses for various items
 - **Technologies:** MySQL, PHP, HTML, CSS, JavaScript, jQuery, Java, Android, Google Maps Geocoding API
 - **Team Project?:** Yes, with two other technical members
@@ -34,7 +33,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 ### [Hearthstone Deck Builder App](https://github.com/charlesmjenkins/hearthstone-deckbuilder)
 ![Hearthstone Deck Builder App](/screenshots/deckbuilder.png?raw=true)
-- **[Try the Web App](http://charlesmjenkins.com/deckbuilder/login.php)** 
+- **[Try the Web App](http://charlesmjenkins.com/deckbuilder/login.php)**
 - **Description:** An online card game deck builder web application
 - **Technologies:** MySQL, PHP, HTML5, CSS, JavaScript, jQuery
 - **Team Project?:** No
@@ -43,7 +42,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 ### [Dog Adoption Simulated Mobile App](https://github.com/charlesmjenkins/dog-adoption-app)
 ![Dog Adoption Simulated Mobile App](/screenshots/dog.png?raw=true)
-- **[Try the Web App](http://charlesmjenkins.com/dog-adoption-app/startup.php)** 
+- **[Try the Web App](http://charlesmjenkins.com/dog-adoption-app/startup.php)**
 - **Description:** A web app simulating a mobile app that shows users a list of dogs in nearby shelters in order of "euthanization schedule" to help incentivize users to adopt
 - **Technologies:** MySQL, PHP, HTML5, CSS, JavaScript, jQuery, Google Maps Geocoding API
 - **Team Project?:** Yes, with five other technical members
@@ -53,7 +52,7 @@ This repository serves as an index to the various projects I've worked on to hel
 
 ### [Physics-Based Phaser HTML5/JavaScript Game Concept and How-To Guide](https://github.com/charlesmjenkins/physics-game)
 ![Physics-Based Phaser HTML5/JavaScript Game Concept and How-To Guide](/screenshots/physics.png?raw=true)
-- **[View the How-To and Try the Game](http://charlesmjenkins.com/physics-game/how-to.html)** 
+- **[View the How-To and Try the Game](http://charlesmjenkins.com/physics-game/how-to.html)**
 - **Description:** A physics-based game concept built as an example for a how-to guide on the Phaser game development framework's included P2 Physics Engine
 - **Technologies:** HTML5, Phaser HTML5 game framework, CSS, JavaScript
 - **Team Project?:** No
